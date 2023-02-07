@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ghazala Bibi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1>Hi 👋, I'm Ghazala Bibi</h1>
+<h3>A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"
  />
@@ -14,6 +14,8 @@
 - 💬 Ask me about **HTML,CSS, JavaScript, Angular**
 
 - 📫 Reach me via [Email](ghazalabb21@gmail.com)
+
+- 🤝  I'm open to collaborating on Projects related to Web Apps
 
 - ⚡ Fun fact **I don't like Biryani🙃**
 
