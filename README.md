@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ghazalabb21@gmail.com**
 
-- ⚡ Fun fact **I think I am interested in reading and trying different cuisines**
+- ⚡ Fun fact **I am interested in reading and trying different cuisines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
