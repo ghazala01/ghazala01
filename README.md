@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **HTML,CSS, JavaScript, Angular**
 
-- 📫 Reach me via [Email](ghazalabb21@gmail.com)
+- 📫 Contact me at itxtalal@gmail.com
 
-- 🤝  I'm open to collaborating on Projects related to Web Apps
+- 🤝 I'm open to collaborating on Projects related to Web Apps
 
 - ⚡ Fun fact **I don't like Biryani🙃**
 
