@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React or Angular**
 
-- 📫 Contact me at itxtalal@gmail.com
+- 📫 Contact me at ghazalabb21@gmail.com
 
 - 🤝 I'm open to collaborating on Projects related to Web Apps
 
