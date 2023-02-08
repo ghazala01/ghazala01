@@ -17,7 +17,6 @@
 
 - 🤝 I'm open to collaborating on Projects related to Web Apps
 
-- ⚡ Fun fact **I don't like Biryani🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
