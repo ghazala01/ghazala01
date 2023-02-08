@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ghazala01)
 
-- 💬 Ask me about **HTML,CSS, JavaScript, Angular**
+- 💬 Ask me about **HTML,CSS,JavaScript,React or Angular**
 
 - 📫 Contact me at itxtalal@gmail.com
 
