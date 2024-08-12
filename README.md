@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghazala01&label=Profile%20views&color=0e75b6&style=flat" alt="ghazala01" /> </p>
 
 
-- 🌱 I’m currently learning **Angular with Spartacus Framework**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ghazala01)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React or Angular**
+- 💬 Ask me about **HTML,CSS,JavaScript,NodeJS/ExpressJS,MongoDB,React or Angular**
 
 - 📫 Contact me at ghazalabb21@gmail.com
 
